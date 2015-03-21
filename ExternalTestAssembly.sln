@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalTestAssembly", "ExternalTestAssembly\ExternalTestAssembly.csproj", "{386AE4C1-5DB6-4ECC-A3BD-455DF843C06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCustomControlLibrary1", "WpfCustomControlLibrary1\WpfCustomControlLibrary1.csproj", "{6CA67FB7-F0F4-44D8-876C-12E4D5BD1B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386AE4C1-5DB6-4ECC-A3BD-455DF843C06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386AE4C1-5DB6-4ECC-A3BD-455DF843C06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386AE4C1-5DB6-4ECC-A3BD-455DF843C06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386AE4C1-5DB6-4ECC-A3BD-455DF843C06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA67FB7-F0F4-44D8-876C-12E4D5BD1B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA67FB7-F0F4-44D8-876C-12E4D5BD1B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA67FB7-F0F4-44D8-876C-12E4D5BD1B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA67FB7-F0F4-44D8-876C-12E4D5BD1B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

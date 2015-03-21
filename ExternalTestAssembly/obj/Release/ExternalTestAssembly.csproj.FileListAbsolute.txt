@@ -1,0 +1,5 @@
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\bin\Release\ExternalTestAssembly.dll
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\bin\Release\ExternalTestAssembly.pdb
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.csprojResolveAssemblyReference.cache
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.dll
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.pdb

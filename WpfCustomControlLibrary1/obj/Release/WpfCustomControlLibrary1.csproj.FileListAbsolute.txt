@@ -1,0 +1,10 @@
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\bin\Release\WpfCustomControlLibrary1.dll
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\bin\Release\WpfCustomControlLibrary1.pdb
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\Window1.baml
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\Window1.g.cs
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\WpfCustomControlLibrary1_MarkupCompile.cache
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\WpfCustomControlLibrary1.g.resources
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\WpfCustomControlLibrary1.Properties.Resources.resources
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\WpfCustomControlLibrary1.csproj.GenerateResource.Cache
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\WpfCustomControlLibrary1.dll
+E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\WpfCustomControlLibrary1\obj\Release\WpfCustomControlLibrary1.pdb
