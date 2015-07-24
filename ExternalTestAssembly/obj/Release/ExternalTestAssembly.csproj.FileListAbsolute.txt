@@ -3,3 +3,6 @@ E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssemb
 E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.csprojResolveAssemblyReference.cache
 E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.dll
 E:\Dokumente\Visual Studio 2013\Projects\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.pdb
+E:\Dokumente\GitHub\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.csprojResolveAssemblyReference.cache
+E:\Dokumente\GitHub\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.dll
+E:\Dokumente\GitHub\ExternalTestAssembly\ExternalTestAssembly\obj\Release\ExternalTestAssembly.pdb
